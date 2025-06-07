@@ -1,34 +1,59 @@
+import io.appium.java_client.AppiumBy;
+import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
-import org.openqa.selenium.remote.DesiredCapabilities;
+import io.appium.java_client.android.options.UiAutomator2Options;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.AfterClass;
 
 import java.net.MalformedURLException;
 import java.net.URL;
 
 public class CalculatorTest {
 
-    public static void main(String[] args) throws MalformedURLException {
-        openCalculator();
+    private AppiumDriver driver;
+
+    @BeforeClass
+    public void setUp() throws MalformedURLException {
+        UiAutomator2Options options = new UiAutomator2Options()
+                .setDeviceName("No name's A12")
+                .setUdid("RF8RC06FW2W")
+                .setPlatformName("Android")
+                .setPlatformVersion("13")
+                .setAppPackage("com.sec.android.app.popupcalculator")
+                .setAppActivity("com.sec.android.app.popupcalculator.Calculator");
+
+        driver = new AndroidDriver(new URL("http://127.0.0.1:4723"), options);
+        System.out.println("Calculator App launched!");
     }
 
-    public static void openCalculator() throws MalformedURLException {
-        DesiredCapabilities cap = new DesiredCapabilities();
+    @Test
+    public void testAddition() {
+        // Tap 2
+        driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_02")).click();
 
-        cap.setCapability("deviceName", "No name's A12");
-        cap.setCapability("udid", "RF8RC06FW2W");
-        cap.setCapability("platformName", "Android");
-        cap.setCapability("platformVersion", "13");
-        cap.setCapability("appPackage", "com.sec.android.app.popupcalculator");
-        cap.setCapability("appActivity", "com.sec.android.app.popupcalculator.Calculator");
+        // Tap +
+        driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_add")).click();
 
-        URL url = new URL("http://127.0.0.1:4723/wd/hub");
+        // Tap 3
+        driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_03")).click();
 
-        AndroidDriver driver = new AndroidDriver(url, cap);
-        System.out.println("Calculator App launched successfully!");
+        // Tap =
+        driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_equal")).click();
 
-        // Example: Interact with a button
-        // WebElement button7 = driver.findElement(By.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_07"));
-        // button7.click();
+        // Get the result
+        String result = driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_edt_formula")).getText();
+        System.out.println("Result is: " + result);  // Expecting: 5
 
-        // driver.quit(); // Uncomment to close the app
+        Assert.assertTrue(result.contains("5"), "Expected result to contain '5'");
+    }
+
+    @AfterClass
+    public void tearDown() {
+        if (driver != null) {
+            driver.quit();
+        }
     }
 }
