@@ -6,14 +6,17 @@ import org.openqa.selenium.WebElement;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import utils.HelperMethods;
 
 public class CalculatorPage {
 
     private static final Logger logger = LogManager.getLogger(CalculatorPage.class);
     private AndroidDriver driver;
+    private HelperMethods helpers;
 
     public CalculatorPage(AndroidDriver driver) {
         this.driver = driver;
+        this.helpers = new HelperMethods(driver, logger);
         logger.info("CalculatorPage initialized");
     }
 
@@ -86,106 +89,71 @@ public class CalculatorPage {
     }
 
     public void clickZero(){
-        logger.info("Clicked button 0");
-        logger.debug("Result displayed: " + resultField().getText());
-        btnZero().click();
+        helpers.clickElement(btnZero(),"0");
     }
 
     public void clickOne(){
-        logger.info("Clicked button 1");
-        logger.debug("Result displayed: " + resultField().getText());
-        btnOne().click();
+        helpers.clickElement(btnOne(),"1");
     }
 
     public void clickTwo(){
-        logger.info("Clicked button 2");
-        logger.debug("Result displayed: " + resultField().getText());
-        btnTwo().click();
-    }
-
-    public void clickAdd(){
-        logger.info("Clicked button (+)");
-        logger.debug("Result displayed: " + resultField().getText());
-        btnAdd().click();
+        helpers.clickElement(btnTwo(),"2");
     }
 
     public void clickThree(){
-        logger.info("Clicked button 3");
-        logger.debug("Result displayed: " + resultField().getText());
-        btnThree().click();
+        helpers.clickElement(btnThree(), "3");
     }
 
     public void clickFour(){
-        logger.info("Clicked button 4");
-        logger.debug("Result displayed: " + resultField().getText());
-        btnFour().click();
+        helpers.clickElement(btnFour(), "4");
     }
 
     public void clickFive(){
-        logger.info("Clicked button 5");
-        logger.debug("Result displayed: " + resultField().getText());
-        btnFive().click();
+        helpers.clickElement(btnFive(), "5");
     }
 
     public void clickSix(){
-        logger.info("Clicked button 6");
-        logger.debug("Result displayed: " + resultField().getText());
-        btnSix().click();
+        helpers.clickElement(btnSix(), "6");
     }
 
     public void clickSeven(){
-        logger.info("Clicked button 7");
-        logger.debug("Result displayed: " + resultField().getText());
-        btnSeven().click();
+        helpers.clickElement(btnSeven(), "7");
     }
 
     public void clickEight(){
-        logger.info("Clicked button 8");
-        logger.debug("Result displayed: " + resultField().getText());
-        btnEight().click();
+        helpers.clickElement(btnEight(), "8");
     }
 
     public void clickNine(){
-        logger.info("Clicked button 9");
-        logger.debug("Result displayed: " + resultField().getText());
-        btnNine().click();
+        helpers.clickElement(btnNine(), "9");
+    }
+
+    public void clickAdd(){
+        helpers.clickElement(btnAdd(), "+");
     }
 
     public void clickEqual(){
-        logger.info("Clicked button (=)");
-        logger.debug("Result displayed: " + resultField().getText());
-        btnEquals().click();
+        helpers.clickElement(btnEquals(), "=");
     }
-
-    public String getResultText() {
-        String result = resultField().getText();
-        logger.info("Retrieved result: " + result);
-        return result;
-    }
-
 
     public void clickSubtract(){
-        logger.info("Clicked button (-)");
-        logger.debug("Result displayed: " + resultField().getText());
-        btnSubtract().click();
+        helpers.clickElement(btnSubtract(), "-");
     }
 
     public void clickMultiply(){
-        logger.info("Clicked button (X)");
-        logger.debug("Result displayed: " + resultField().getText());
-        btnMultiply().click();
+        helpers.clickElement(btnMultiply(), "x");
     }
 
     public void clickDivide(){
-        logger.info("Clicked button (/)");
-        logger.debug("Result displayed: " + resultField().getText());
-        btnDivide().click();
+        helpers.clickElement(btnDivide(), "/");
     }
 
     public void clearCalculator() {
-        logger.info("Clicked button (C)");
-        logger.debug("Result displayed: " + resultField().getText());
-        btnClear().click();
+        helpers.clickElement(btnClear(), "C");
+    }
+
+    public String getResultText() {
+        return helpers.getText(resultField());
     }
 
 }
