@@ -1,0 +1,181 @@
+2025-06-07 23:05:38,567 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-07 23:21:43,427 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-07 23:21:43,430 [main] INFO  pages.CalculatorPage - Clicked button 3
+2025-06-07 23:21:44,686 [main] INFO  pages.CalculatorPage - Clicked button 2
+2025-06-07 23:21:45,301 [main] INFO  pages.CalculatorPage - Clicked button =
+2025-06-07 23:27:37,313 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-07 23:27:37,316 [main] INFO  pages.CalculatorPage - Clicked button 3
+2025-06-07 23:27:38,560 [main] INFO  pages.CalculatorPage - Clicked button 2
+2025-06-07 23:27:39,295 [main] INFO  pages.CalculatorPage - Clicked button =
+2025-06-07 23:34:44,593 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-07 23:34:44,596 [main] INFO  pages.CalculatorPage - Clicked button 5
+2025-06-07 23:34:45,287 [main] INFO  pages.CalculatorPage - Clicked button 4
+2025-06-07 23:34:45,984 [main] INFO  pages.CalculatorPage - Clicked button 2
+2025-06-07 23:34:46,667 [main] INFO  pages.CalculatorPage - Clicked button (/)
+2025-06-07 23:34:47,442 [main] INFO  pages.CalculatorPage - Clicked button 3
+2025-06-07 23:34:48,766 [main] INFO  pages.CalculatorPage - Clicked button (=)
+2025-06-07 23:44:33,903 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-07 23:44:33,906 [main] INFO  pages.CalculatorPage - Clicked button 5
+2025-06-07 23:44:34,539 [main] INFO  pages.CalculatorPage - Clicked button 4
+2025-06-07 23:44:35,223 [main] INFO  pages.CalculatorPage - Clicked button 2
+2025-06-07 23:44:35,907 [main] INFO  pages.CalculatorPage - Clicked button (/)
+2025-06-07 23:44:37,182 [main] INFO  pages.CalculatorPage - Clicked button 3
+2025-06-07 23:44:38,052 [main] INFO  pages.CalculatorPage - Clicked button (=)
+2025-06-07 23:44:39,364 [main] INFO  pages.CalculatorPage - Retrieved result: 180.6666666667 Calculation result
+2025-06-08 00:04:57,784 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-08 00:04:57,787 [main] INFO  pages.CalculatorPage - Clicked button 6
+2025-06-08 00:04:58,489 [main] INFO  pages.CalculatorPage - Clicked button (+)
+2025-06-08 00:04:59,202 [main] INFO  pages.CalculatorPage - Clicked button 7
+2025-06-08 00:04:59,869 [main] INFO  pages.CalculatorPage - Clicked button (X)
+2025-06-08 00:05:01,238 [main] INFO  pages.CalculatorPage - Clicked button (-)
+2025-06-08 00:05:02,042 [main] INFO  pages.CalculatorPage - Clicked button 2
+2025-06-08 00:05:02,355 [main] INFO  pages.CalculatorPage - Clicked button (+)
+2025-06-08 00:05:03,192 [main] INFO  pages.CalculatorPage - Clicked button 1
+2025-06-08 00:05:04,008 [main] INFO  pages.CalculatorPage - Clicked button 6
+2025-06-08 00:05:04,837 [main] INFO  pages.CalculatorPage - Clicked button 0
+2025-06-08 00:05:05,685 [main] INFO  pages.CalculatorPage - Clicked button (/)
+2025-06-08 00:05:06,939 [main] INFO  pages.CalculatorPage - Clicked button 8
+2025-06-08 00:05:07,233 [main] INFO  pages.CalculatorPage - Clicked button (C)
+2025-06-08 00:05:08,551 [main] INFO  pages.CalculatorPage - Retrieved result: 
+2025-06-08 00:09:08,054 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-08 00:09:08,058 [main] INFO  pages.CalculatorPage - Clicked button 6
+2025-06-08 00:09:08,710 [main] INFO  pages.CalculatorPage - Clicked button (+)
+2025-06-08 00:09:09,408 [main] INFO  pages.CalculatorPage - Clicked button 7
+2025-06-08 00:09:10,075 [main] INFO  pages.CalculatorPage - Clicked button (X)
+2025-06-08 00:09:11,385 [main] INFO  pages.CalculatorPage - Clicked button (-)
+2025-06-08 00:09:12,234 [main] INFO  pages.CalculatorPage - Clicked button 2
+2025-06-08 00:09:13,070 [main] INFO  pages.CalculatorPage - Clicked button (+)
+2025-06-08 00:09:13,937 [main] INFO  pages.CalculatorPage - Clicked button 1
+2025-06-08 00:09:14,807 [main] INFO  pages.CalculatorPage - Clicked button 6
+2025-06-08 00:09:15,164 [main] INFO  pages.CalculatorPage - Clicked button 0
+2025-06-08 00:09:16,538 [main] INFO  pages.CalculatorPage - Clicked button (/)
+2025-06-08 00:09:16,882 [main] INFO  pages.CalculatorPage - Clicked button 8
+2025-06-08 00:09:17,696 [main] INFO  pages.CalculatorPage - Clicked button (C)
+2025-06-08 00:10:38,067 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-08 00:10:38,071 [main] INFO  pages.CalculatorPage - Clicked button 6
+2025-06-08 00:10:38,773 [main] INFO  pages.CalculatorPage - Clicked button (+)
+2025-06-08 00:10:39,487 [main] INFO  pages.CalculatorPage - Clicked button 7
+2025-06-08 00:10:40,153 [main] INFO  pages.CalculatorPage - Clicked button (X)
+2025-06-08 00:10:40,958 [main] INFO  pages.CalculatorPage - Clicked button (-)
+2025-06-08 00:10:42,313 [main] INFO  pages.CalculatorPage - Clicked button 2
+2025-06-08 00:10:42,655 [main] INFO  pages.CalculatorPage - Clicked button (+)
+2025-06-08 00:10:44,032 [main] INFO  pages.CalculatorPage - Clicked button 1
+2025-06-08 00:10:44,427 [main] INFO  pages.CalculatorPage - Clicked button 6
+2025-06-08 00:10:45,726 [main] INFO  pages.CalculatorPage - Clicked button 0
+2025-06-08 00:10:46,104 [main] INFO  pages.CalculatorPage - Clicked button (/)
+2025-06-08 00:10:46,892 [main] INFO  pages.CalculatorPage - Clicked button 8
+2025-06-08 00:10:47,688 [main] INFO  pages.CalculatorPage - Clicked button (C)
+2025-06-08 00:10:49,083 [main] INFO  pages.CalculatorPage - Retrieved result: 
+2025-06-08 00:13:12,939 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-08 00:13:12,943 [main] INFO  pages.CalculatorPage - Clicked button 6
+2025-06-08 00:13:13,593 [main] INFO  pages.CalculatorPage - Clicked button (+)
+2025-06-08 00:13:14,289 [main] INFO  pages.CalculatorPage - Clicked button 7
+2025-06-08 00:13:14,989 [main] INFO  pages.CalculatorPage - Clicked button (X)
+2025-06-08 00:13:15,848 [main] INFO  pages.CalculatorPage - Clicked button (-)
+2025-06-08 00:13:17,209 [main] INFO  pages.CalculatorPage - Clicked button 2
+2025-06-08 00:13:17,534 [main] INFO  pages.CalculatorPage - Clicked button (+)
+2025-06-08 00:13:18,861 [main] INFO  pages.CalculatorPage - Clicked button 1
+2025-06-08 00:13:19,223 [main] INFO  pages.CalculatorPage - Clicked button 6
+2025-06-08 00:13:20,558 [main] INFO  pages.CalculatorPage - Clicked button 0
+2025-06-08 00:13:20,969 [main] INFO  pages.CalculatorPage - Clicked button (/)
+2025-06-08 00:13:22,228 [main] INFO  pages.CalculatorPage - Clicked button 8
+2025-06-08 00:13:22,549 [main] INFO  pages.CalculatorPage - Clicked button (C)
+2025-06-08 00:13:23,962 [main] INFO  pages.CalculatorPage - Retrieved result: 
+2025-06-08 09:03:16,584 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-08 09:03:16,600 [main] INFO  pages.CalculatorPage - Clicked button 9
+2025-06-08 09:03:17,429 [main] INFO  pages.CalculatorPage - Clicked button (X)
+2025-06-08 09:03:18,125 [main] INFO  pages.CalculatorPage - Clicked button 8
+2025-06-08 09:03:18,894 [main] INFO  pages.CalculatorPage - Clicked button (=)
+2025-06-08 09:03:20,658 [main] INFO  pages.CalculatorPage - Retrieved result: 72 Calculation result
+2025-06-08 09:04:08,549 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-08 09:04:08,552 [main] INFO  pages.CalculatorPage - Clicked button 9
+2025-06-08 09:04:09,183 [main] INFO  pages.CalculatorPage - Clicked button (X)
+2025-06-08 09:04:09,882 [main] INFO  pages.CalculatorPage - Clicked button 8
+2025-06-08 09:04:10,547 [main] INFO  pages.CalculatorPage - Clicked button (=)
+2025-06-08 09:04:12,334 [main] INFO  pages.CalculatorPage - Retrieved result: 72 Calculation result
+2025-06-08 09:09:59,318 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-08 09:09:59,324 [main] INFO  pages.CalculatorPage - Clicked button 9
+2025-06-08 09:09:59,873 [main] INFO  pages.CalculatorPage - Clicked button (X)
+2025-06-08 09:10:01,155 [main] INFO  pages.CalculatorPage - Clicked button 8
+2025-06-08 09:10:01,968 [main] INFO  pages.CalculatorPage - Clicked button (=)
+2025-06-08 09:10:03,751 [main] INFO  pages.CalculatorPage - Retrieved result: 72 Calculation result
+2025-06-08 09:10:37,684 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-08 09:10:37,688 [main] INFO  pages.CalculatorPage - Clicked button 2
+2025-06-08 09:10:38,307 [main] INFO  pages.CalculatorPage - Clicked button (+)
+2025-06-08 09:10:39,022 [main] INFO  pages.CalculatorPage - Clicked button 3
+2025-06-08 09:10:39,722 [main] INFO  pages.CalculatorPage - Clicked button (=)
+2025-06-08 09:10:41,520 [main] INFO  pages.CalculatorPage - Retrieved result: 5 Calculation result
+2025-06-08 09:11:13,246 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-08 09:11:13,252 [main] INFO  pages.CalculatorPage - Clicked button 3
+2025-06-08 09:11:13,809 [main] INFO  pages.CalculatorPage - Clicked button (-)
+2025-06-08 09:11:14,508 [main] INFO  pages.CalculatorPage - Clicked button 2
+2025-06-08 09:11:15,230 [main] INFO  pages.CalculatorPage - Clicked button (=)
+2025-06-08 09:11:16,946 [main] INFO  pages.CalculatorPage - Retrieved result: 1 Calculation result
+2025-06-08 09:28:19,920 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-08 09:28:19,924 [main] INFO  pages.CalculatorPage - Clicked button 6
+2025-06-08 09:28:20,575 [main] INFO  pages.CalculatorPage - Clicked button (+)
+2025-06-08 09:28:21,293 [main] INFO  pages.CalculatorPage - Clicked button 7
+2025-06-08 09:28:21,982 [main] INFO  pages.CalculatorPage - Clicked button (X)
+2025-06-08 09:28:22,789 [main] INFO  pages.CalculatorPage - Clicked button (-)
+2025-06-08 09:28:24,062 [main] INFO  pages.CalculatorPage - Clicked button 2
+2025-06-08 09:28:24,433 [main] INFO  pages.CalculatorPage - Clicked button (+)
+2025-06-08 09:28:25,287 [main] INFO  pages.CalculatorPage - Clicked button 1
+2025-06-08 09:28:26,094 [main] INFO  pages.CalculatorPage - Clicked button 6
+2025-06-08 09:28:26,916 [main] INFO  pages.CalculatorPage - Clicked button 0
+2025-06-08 09:28:27,764 [main] INFO  pages.CalculatorPage - Clicked button (/)
+2025-06-08 09:28:28,557 [main] INFO  pages.CalculatorPage - Clicked button 8
+2025-06-08 09:28:29,952 [main] INFO  pages.CalculatorPage - Retrieved result: 6 Plus 7 Minus 2 Plus 160 Divided by 8
+2025-06-08 09:29:41,195 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-08 09:29:41,198 [main] INFO  pages.CalculatorPage - Clicked button 6
+2025-06-08 09:29:41,844 [main] INFO  pages.CalculatorPage - Clicked button (+)
+2025-06-08 09:29:42,546 [main] INFO  pages.CalculatorPage - Clicked button 7
+2025-06-08 09:29:43,205 [main] INFO  pages.CalculatorPage - Clicked button (X)
+2025-06-08 09:29:43,995 [main] INFO  pages.CalculatorPage - Clicked button (-)
+2025-06-08 09:29:45,317 [main] INFO  pages.CalculatorPage - Clicked button 2
+2025-06-08 09:29:46,170 [main] INFO  pages.CalculatorPage - Clicked button (+)
+2025-06-08 09:29:47,020 [main] INFO  pages.CalculatorPage - Clicked button 1
+2025-06-08 09:29:47,393 [main] INFO  pages.CalculatorPage - Clicked button 6
+2025-06-08 09:29:48,227 [main] INFO  pages.CalculatorPage - Clicked button 0
+2025-06-08 09:29:49,096 [main] INFO  pages.CalculatorPage - Clicked button (/)
+2025-06-08 09:29:50,385 [main] INFO  pages.CalculatorPage - Clicked button 8
+2025-06-08 09:29:51,310 [main] INFO  pages.CalculatorPage - Retrieved result: 6 Plus 7 Minus 2 Plus 160 Divided by 8
+2025-06-08 09:38:56,664 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-08 09:38:56,668 [main] INFO  pages.CalculatorPage - Clicked button 6
+2025-06-08 09:38:57,321 [main] INFO  pages.CalculatorPage - Clicked button (+)
+2025-06-08 09:38:58,019 [main] INFO  pages.CalculatorPage - Clicked button 7
+2025-06-08 09:38:58,686 [main] INFO  pages.CalculatorPage - Clicked button (=)
+2025-06-08 09:39:00,307 [main] INFO  pages.CalculatorPage - Clicked button (-)
+2025-06-08 09:39:01,221 [main] INFO  pages.CalculatorPage - Clicked button 2
+2025-06-08 09:39:02,046 [main] INFO  pages.CalculatorPage - Clicked button (=)
+2025-06-08 09:39:03,650 [main] INFO  pages.CalculatorPage - Clicked button (+)
+2025-06-08 09:39:04,496 [main] INFO  pages.CalculatorPage - Clicked button 1
+2025-06-08 09:39:04,858 [main] INFO  pages.CalculatorPage - Clicked button 6
+2025-06-08 09:39:06,144 [main] INFO  pages.CalculatorPage - Clicked button 0
+2025-06-08 09:39:06,552 [main] INFO  pages.CalculatorPage - Clicked button (=)
+2025-06-08 09:39:08,165 [main] INFO  pages.CalculatorPage - Clicked button (/)
+2025-06-08 09:39:08,989 [main] INFO  pages.CalculatorPage - Clicked button 8
+2025-06-08 09:39:09,301 [main] INFO  pages.CalculatorPage - Clicked button (=)
+2025-06-08 09:39:11,073 [main] INFO  pages.CalculatorPage - Retrieved result: 21.375 Calculation result
+2025-06-08 10:12:08,195 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-08 10:12:08,199 [main] INFO  pages.CalculatorPage - Clicked button 1
+2025-06-08 10:12:08,829 [main] INFO  pages.CalculatorPage - Clicked button 0
+2025-06-08 10:12:09,545 [main] INFO  pages.CalculatorPage - Clicked button 0
+2025-06-08 10:12:10,302 [main] INFO  pages.CalculatorPage - Clicked button (X)
+2025-06-08 10:12:11,065 [main] INFO  pages.CalculatorPage - Clicked button 2
+2025-06-08 10:12:12,375 [main] INFO  pages.CalculatorPage - Clicked button (=)
+2025-06-08 10:12:13,541 [main] INFO  pages.CalculatorPage - Clicked button (C)
+2025-06-08 10:31:26,027 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-08 10:31:26,031 [main] INFO  pages.CalculatorPage - Clicked button 1
+2025-06-08 10:31:26,686 [main] INFO  pages.CalculatorPage - Clicked button 0
+2025-06-08 10:31:27,401 [main] INFO  pages.CalculatorPage - Clicked button 0
+2025-06-08 10:31:28,694 [main] INFO  pages.CalculatorPage - Clicked button (X)
+2025-06-08 10:31:28,991 [main] INFO  pages.CalculatorPage - Clicked button 2
+2025-06-08 10:31:29,841 [main] INFO  pages.CalculatorPage - Clicked button (=)
+2025-06-08 10:31:31,464 [main] INFO  pages.CalculatorPage - Clicked button (C)
+2025-06-08 10:31:32,257 [main] INFO  pages.CalculatorPage - Clicked button 5
+2025-06-08 10:31:32,588 [main] INFO  pages.CalculatorPage - Clicked button 0
+2025-06-08 10:31:33,470 [main] INFO  pages.CalculatorPage - Clicked button (+)
+2025-06-08 10:31:34,827 [main] INFO  pages.CalculatorPage - Clicked button 2
+2025-06-08 10:31:35,695 [main] INFO  pages.CalculatorPage - Clicked button 5
+2025-06-08 10:31:36,074 [main] INFO  pages.CalculatorPage - Clicked button (=)
+2025-06-08 10:31:37,861 [main] INFO  pages.CalculatorPage - Retrieved result: 75 Calculation result
