@@ -8,7 +8,7 @@ import pages.CalculatorPage;
 
 public class CalculatorTest extends BaseTest {
 
-    @Test
+    @Test(groups = {"smoke"})
     public void testAddition() {
         CalculatorPage calculatorPage = new CalculatorPage(driver);
         calculatorPage.clickTwo();
@@ -20,7 +20,7 @@ public class CalculatorTest extends BaseTest {
         Assert.assertTrue(result.contains("5"), "Expected result to contain '5'");
     }
 
-    @Test
+    @Test(groups = {"regression"})
     public void testSubtraction() {
         CalculatorPage calculatorPage = new CalculatorPage(driver);
         calculatorPage.clickThree();
@@ -32,7 +32,7 @@ public class CalculatorTest extends BaseTest {
         Assert.assertTrue(result.contains("1"), "Expected result to contain '1'");
     }
 
-    @Test
+    @Test(groups = {"regression"})
     public void testMultiply() {
         CalculatorPage calculatorPage = new CalculatorPage(driver);
         calculatorPage.clickNine();
@@ -44,7 +44,7 @@ public class CalculatorTest extends BaseTest {
         Assert.assertTrue(result.contains("72"), "Expected result to contain '72'");
     }
 
-    @Test
+    @Test(groups = {"regression"})
     public void testDivide() {
         CalculatorPage calculatorPage = new CalculatorPage(driver);
 
@@ -59,7 +59,7 @@ public class CalculatorTest extends BaseTest {
         Assert.assertTrue(result.contains("180.6666666667"), "Expected result to contain '180.6666666667'");
     }
 
-    @Test
+    @Test(groups = {"regression"})
     public void testMultipleCalculations() {
         CalculatorPage calculatorPage = new CalculatorPage(driver);
 
@@ -90,7 +90,7 @@ public class CalculatorTest extends BaseTest {
         Assert.assertTrue(result.contains("21.375"), "Expected result to contain '21.375'");
     }
 
-    @Test
+    @Test(groups = {"smoke", "regression"})
     public void testCalculationWithClear() {
         CalculatorPage calculatorPage = new CalculatorPage(driver);
         calculatorPage.clickOne();

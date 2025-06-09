@@ -1,34 +1,27 @@
 package utils;
 
-import io.appium.java_client.AppiumBy;
-import io.appium.java_client.AppiumDriver;
+import io.appium.java_client.android.AndroidDriver;
+import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 
 public class HelperMethods {
-    private AppiumDriver driver;
+    private AndroidDriver driver;
     private WebDriverWait wait;
-    private Logger logger;
+    private static final Logger logger = LogManager.getLogger(HelperMethods.class);
 
-    public HelperMethods(AppiumDriver driver, Logger logger) {
+    public HelperMethods(AndroidDriver driver) {
         this.driver = driver;
-        this.logger = logger;
         this.wait = new WebDriverWait(driver, Duration.ofSeconds(10));
     }
 
-    public void clickElement(WebElement element, String label) {
+    public void clickElement(WebElement element, String description) {
         wait.until(ExpectedConditions.elementToBeClickable(element));
         element.click();
-        logger.info("Clicked button " + label);
-        try {
-            WebElement resultField = driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_edt_formula"));
-            logger.debug("Result displayed: " + resultField.getText());
-        } catch (Exception e) {
-            logger.debug("Could not retrieve result field text after clicking " + label);
-        }
+        logger.info("Clicked button " + description);
     }
 
     public String getText(WebElement element) {

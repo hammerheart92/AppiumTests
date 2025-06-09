@@ -1,22 +1,19 @@
 package pages;
-
 import io.appium.java_client.AppiumBy;
 import io.appium.java_client.android.AndroidDriver;
-import org.openqa.selenium.WebElement;
-
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.WebElement;
 import utils.HelperMethods;
 
 public class CalculatorPage {
-
     private static final Logger logger = LogManager.getLogger(CalculatorPage.class);
     private AndroidDriver driver;
     private HelperMethods helpers;
 
     public CalculatorPage(AndroidDriver driver) {
         this.driver = driver;
-        this.helpers = new HelperMethods(driver, logger);
+        this.helpers = new HelperMethods(driver);
         logger.info("CalculatorPage initialized");
     }
 
@@ -88,6 +85,18 @@ public class CalculatorPage {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_clear"));
     }
 
+    private WebElement btnPercentage() {
+        return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_percentage"));
+    }
+
+    private WebElement btnBrackets() {
+        return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_parenthesis"));
+    }
+
+    private WebElement btnDot() {
+        return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_dot"));
+    }
+
     public void clickZero(){
         helpers.clickElement(btnZero(),"0");
     }
@@ -150,6 +159,18 @@ public class CalculatorPage {
 
     public void clearCalculator() {
         helpers.clickElement(btnClear(), "C");
+    }
+
+    public void clickPercentage() {
+        helpers.clickElement(btnPercentage(), "%");
+    }
+
+    public void clickBrackets() {
+        helpers.clickElement(btnBrackets(), "()");
+    }
+
+    public void clickDot() {
+        helpers.clickElement(btnDot(), ".");
     }
 
     public String getResultText() {

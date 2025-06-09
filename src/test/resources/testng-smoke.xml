@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SmokeSuite" verbose="1" parallel="false">
+    <test name="SmokeTests">
+        <classes>
+            <class name="tests.CalculatorTest">
+                <methods>
+                    <include name="testAddition"/>
+                    <include name="testCalculationWithClear"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
