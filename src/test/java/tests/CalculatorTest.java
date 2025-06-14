@@ -5,6 +5,7 @@ import base.BaseTest;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.CalculatorPage;
+import pages.ConverterPage;
 
 public class CalculatorTest extends BaseTest {
 
@@ -110,5 +111,14 @@ public class CalculatorTest extends BaseTest {
 
         String result = calculatorPage.getResultText();
         Assert.assertTrue(result.contains("75"), "Expected result to contain '75'");
+    }
+
+    @Test
+    public void openConverterTest() throws InterruptedException {
+        ConverterPage converterPage = new ConverterPage(driver);
+        converterPage.openUnitConverter();
+        // Add a wait or log to pause and observe
+
+        Thread.sleep(3000);
     }
 }

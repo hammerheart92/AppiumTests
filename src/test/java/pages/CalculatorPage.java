@@ -17,71 +17,71 @@ public class CalculatorPage {
         logger.info("CalculatorPage initialized");
     }
 
-    private WebElement btnZero(){
+    private WebElement btnZero() {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_00"));
     }
 
-    private WebElement btnOne(){
+    private WebElement btnOne() {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_01"));
     }
 
-    private WebElement btnTwo(){
+    private WebElement btnTwo() {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_02"));
     }
 
-    private WebElement btnAdd(){
+    private WebElement btnAdd() {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_add"));
     }
 
-    private WebElement btnThree(){
+    private WebElement btnThree() {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_03"));
     }
 
-    private WebElement btnFour(){
+    private WebElement btnFour() {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_04"));
     }
 
-    private WebElement btnFive(){
+    private WebElement btnFive() {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_05"));
     }
 
-    private WebElement btnSix(){
+    private WebElement btnSix() {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_06"));
     }
 
-    private WebElement btnSeven(){
+    private WebElement btnSeven() {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_07"));
     }
 
-    private WebElement btnEight(){
+    private WebElement btnEight() {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_08"));
     }
 
-    private WebElement btnNine(){
+    private WebElement btnNine() {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_09"));
     }
 
-    private WebElement btnEquals(){
+    private WebElement btnEquals() {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_equal"));
     }
 
-    private WebElement resultField(){
+    private WebElement resultField() {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_edt_formula"));
     }
 
-    private WebElement btnSubtract(){
+    private WebElement btnSubtract() {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_sub"));
     }
 
-    private WebElement btnMultiply(){
+    private WebElement btnMultiply() {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_mul"));
     }
 
-    private WebElement btnDivide(){
+    private WebElement btnDivide() {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_div"));
     }
 
-    private WebElement btnClear(){
+    private WebElement btnClear() {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_clear"));
     }
 
@@ -97,63 +97,63 @@ public class CalculatorPage {
         return driver.findElement(AppiumBy.id("com.sec.android.app.popupcalculator:id/calc_keypad_btn_dot"));
     }
 
-    public void clickZero(){
-        helpers.clickElement(btnZero(),"0");
+    public void clickZero() {
+        helpers.clickElement(btnZero(), "0");
     }
 
-    public void clickOne(){
-        helpers.clickElement(btnOne(),"1");
+    public void clickOne() {
+        helpers.clickElement(btnOne(), "1");
     }
 
-    public void clickTwo(){
-        helpers.clickElement(btnTwo(),"2");
+    public void clickTwo() {
+        helpers.clickElement(btnTwo(), "2");
     }
 
-    public void clickThree(){
+    public void clickThree() {
         helpers.clickElement(btnThree(), "3");
     }
 
-    public void clickFour(){
+    public void clickFour() {
         helpers.clickElement(btnFour(), "4");
     }
 
-    public void clickFive(){
+    public void clickFive() {
         helpers.clickElement(btnFive(), "5");
     }
 
-    public void clickSix(){
+    public void clickSix() {
         helpers.clickElement(btnSix(), "6");
     }
 
-    public void clickSeven(){
+    public void clickSeven() {
         helpers.clickElement(btnSeven(), "7");
     }
 
-    public void clickEight(){
+    public void clickEight() {
         helpers.clickElement(btnEight(), "8");
     }
 
-    public void clickNine(){
+    public void clickNine() {
         helpers.clickElement(btnNine(), "9");
     }
 
-    public void clickAdd(){
+    public void clickAdd() {
         helpers.clickElement(btnAdd(), "+");
     }
 
-    public void clickEqual(){
+    public void clickEqual() {
         helpers.clickElement(btnEquals(), "=");
     }
 
-    public void clickSubtract(){
+    public void clickSubtract() {
         helpers.clickElement(btnSubtract(), "-");
     }
 
-    public void clickMultiply(){
+    public void clickMultiply() {
         helpers.clickElement(btnMultiply(), "x");
     }
 
-    public void clickDivide(){
+    public void clickDivide() {
         helpers.clickElement(btnDivide(), "/");
     }
 
@@ -176,5 +176,4 @@ public class CalculatorPage {
     public String getResultText() {
         return helpers.getText(resultField());
     }
-
 }

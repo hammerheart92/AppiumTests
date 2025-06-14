@@ -664,3 +664,301 @@
 2025-06-09 13:47:55,697 [main] INFO  utils.HelperMethods - Clicked button 2
 2025-06-09 13:47:57,268 [main] INFO  utils.HelperMethods - Clicked button =
 2025-06-09 13:47:57,417 [main] INFO  utils.HelperMethods - Retrieved result: 1 Calculation result
+2025-06-09 15:27:44,828 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 15:57:47,779 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 16:11:54,683 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 16:12:04,422 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-09 16:12:05,048 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 16:14:59,829 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 16:15:09,561 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-09 16:15:10,179 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 17:00:44,325 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 17:00:54,107 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-09 17:00:54,727 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 17:06:28,709 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 17:06:38,599 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-09 17:06:39,211 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 17:23:38,190 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 17:23:47,934 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-09 17:23:48,563 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 17:27:31,146 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 17:27:40,555 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-09 17:27:41,205 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 17:30:08,564 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 17:30:18,311 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-09 17:50:39,846 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 17:50:49,175 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-09 17:50:49,776 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 17:58:53,660 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 17:59:02,885 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-09 17:59:03,510 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 18:09:02,497 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 18:09:13,107 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-09 18:09:13,754 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 18:12:37,115 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 18:12:47,994 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-09 18:12:48,548 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 18:37:46,022 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 18:37:55,771 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-09 18:37:56,421 [main] INFO  utils.HelperMethods - Clicked button 6
+2025-06-09 18:37:57,129 [main] INFO  utils.HelperMethods - Clicked button +
+2025-06-09 18:37:57,797 [main] INFO  utils.HelperMethods - Clicked button 7
+2025-06-09 18:37:59,983 [main] INFO  utils.HelperMethods - Clicked button =
+2025-06-09 18:38:00,819 [main] INFO  utils.HelperMethods - Clicked button -
+2025-06-09 18:38:01,168 [main] INFO  utils.HelperMethods - Clicked button 2
+2025-06-09 18:38:02,810 [main] INFO  utils.HelperMethods - Clicked button =
+2025-06-09 18:38:03,671 [main] INFO  utils.HelperMethods - Clicked button +
+2025-06-09 18:38:04,037 [main] INFO  utils.HelperMethods - Clicked button 1
+2025-06-09 18:38:04,821 [main] INFO  utils.HelperMethods - Clicked button 6
+2025-06-09 18:38:05,660 [main] INFO  utils.HelperMethods - Clicked button 0
+2025-06-09 18:38:07,240 [main] INFO  utils.HelperMethods - Clicked button =
+2025-06-09 18:38:07,555 [main] INFO  utils.HelperMethods - Clicked button /
+2025-06-09 18:38:08,330 [main] INFO  utils.HelperMethods - Clicked button 8
+2025-06-09 18:38:09,955 [main] INFO  utils.HelperMethods - Clicked button =
+2025-06-09 18:38:10,160 [main] INFO  utils.HelperMethods - Retrieved result: 21.375 Calculation result
+2025-06-09 18:41:25,866 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 18:41:35,691 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-09 18:41:36,346 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 18:42:57,463 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 18:43:07,213 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-09 18:43:07,848 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 18:45:49,615 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 18:45:59,156 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-09 18:46:00,121 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 19:04:31,622 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 19:04:41,783 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-09 19:04:42,370 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 19:05:37,134 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 19:05:46,471 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-09 19:05:47,070 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 19:33:58,627 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 19:34:08,293 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-09 19:41:44,323 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 19:41:53,835 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-09 19:41:54,456 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 19:43:30,788 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 19:43:40,144 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-09 19:43:40,731 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 20:09:26,458 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 20:09:37,104 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-09 20:09:37,744 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 20:09:39,593 [main] INFO  utils.HelperMethods - Clicked button Temperature Tab
+2025-06-09 20:24:40,396 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2025-06-09 20:24:40,642 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\ApppiumTests\src\test\resources\testng-regression.xml
+
+2025-06-09 20:24:49,875 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-09 20:24:50,498 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-09 20:24:53,520 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-09 20:24:53,830 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-09 20:24:54,315 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-09 20:24:54,634 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-09 20:24:54,960 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-09 20:24:55,242 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-09 20:25:16,684 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2025-06-09 20:25:16,933 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\ApppiumTests\src\test\resources\testng-smoke.xml
+
+2025-06-09 20:25:26,665 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-09 20:25:27,354 [main] INFO  utils.HelperMethods - Clicked button 2
+2025-06-09 20:25:28,049 [main] INFO  utils.HelperMethods - Clicked button +
+2025-06-09 20:25:28,733 [main] INFO  utils.HelperMethods - Clicked button 3
+2025-06-09 20:25:30,319 [main] INFO  utils.HelperMethods - Clicked button =
+2025-06-09 20:25:30,470 [main] INFO  utils.HelperMethods - Retrieved result: 5 Calculation result
+2025-06-09 20:25:30,478 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-09 20:25:30,791 [main] INFO  utils.HelperMethods - Clicked button 1
+2025-06-09 20:25:31,567 [main] INFO  utils.HelperMethods - Clicked button 0
+2025-06-09 20:25:32,872 [main] INFO  utils.HelperMethods - Clicked button 0
+2025-06-09 20:25:33,674 [main] INFO  utils.HelperMethods - Clicked button x
+2025-06-09 20:25:34,049 [main] INFO  utils.HelperMethods - Clicked button 2
+2025-06-09 20:25:35,631 [main] INFO  utils.HelperMethods - Clicked button =
+2025-06-09 20:25:36,406 [main] INFO  utils.HelperMethods - Clicked button C
+2025-06-09 20:25:36,742 [main] INFO  utils.HelperMethods - Clicked button 5
+2025-06-09 20:25:38,034 [main] INFO  utils.HelperMethods - Clicked button 0
+2025-06-09 20:25:38,395 [main] INFO  utils.HelperMethods - Clicked button +
+2025-06-09 20:25:39,679 [main] INFO  utils.HelperMethods - Clicked button 2
+2025-06-09 20:25:40,476 [main] INFO  utils.HelperMethods - Clicked button 5
+2025-06-09 20:25:41,558 [main] INFO  utils.HelperMethods - Clicked button =
+2025-06-09 20:25:41,718 [main] INFO  utils.HelperMethods - Retrieved result: 75 Calculation result
+2025-06-09 20:26:28,421 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-09 20:26:37,678 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-09 20:26:38,312 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-13 21:42:21,248 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-13 21:42:35,729 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-13 21:42:36,525 [main] INFO  utils.HelperMethods - Clicked button 2
+2025-06-13 21:42:37,278 [main] INFO  utils.HelperMethods - Clicked button +
+2025-06-13 21:42:38,041 [main] INFO  utils.HelperMethods - Clicked button 3
+2025-06-13 21:42:39,615 [main] INFO  utils.HelperMethods - Clicked button =
+2025-06-13 21:42:39,757 [main] INFO  utils.HelperMethods - Retrieved result: 5 Calculation result
+2025-06-13 21:44:44,406 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2025-06-13 21:44:44,700 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\ApppiumTests\src\test\resources\testng-smoke.xml
+
+2025-06-13 21:44:55,718 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-13 21:44:56,382 [main] INFO  utils.HelperMethods - Clicked button 2
+2025-06-13 21:44:57,079 [main] INFO  utils.HelperMethods - Clicked button +
+2025-06-13 21:44:57,799 [main] INFO  utils.HelperMethods - Clicked button 3
+2025-06-13 21:44:59,433 [main] INFO  utils.HelperMethods - Clicked button =
+2025-06-13 21:44:59,616 [main] INFO  utils.HelperMethods - Retrieved result: 5 Calculation result
+2025-06-13 21:44:59,632 [main] INFO  pages.CalculatorPage - CalculatorPage initialized
+2025-06-13 21:44:59,981 [main] INFO  utils.HelperMethods - Clicked button 1
+2025-06-13 21:45:01,738 [main] INFO  utils.HelperMethods - Clicked button 0
+2025-06-13 21:45:02,571 [main] INFO  utils.HelperMethods - Clicked button 0
+2025-06-13 21:45:02,891 [main] INFO  utils.HelperMethods - Clicked button x
+2025-06-13 21:45:03,705 [main] INFO  utils.HelperMethods - Clicked button 2
+2025-06-13 21:45:05,295 [main] INFO  utils.HelperMethods - Clicked button =
+2025-06-13 21:45:05,593 [main] INFO  utils.HelperMethods - Clicked button C
+2025-06-13 21:45:06,849 [main] INFO  utils.HelperMethods - Clicked button 5
+2025-06-13 21:45:07,970 [main] INFO  utils.HelperMethods - Clicked button 0
+2025-06-13 21:45:08,831 [main] INFO  utils.HelperMethods - Clicked button +
+2025-06-13 21:45:09,164 [main] INFO  utils.HelperMethods - Clicked button 2
+2025-06-13 21:45:09,937 [main] INFO  utils.HelperMethods - Clicked button 5
+2025-06-13 21:45:11,541 [main] INFO  utils.HelperMethods - Clicked button =
+2025-06-13 21:45:11,728 [main] INFO  utils.HelperMethods - Retrieved result: 75 Calculation result
+2025-06-14 11:52:10,633 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-14 11:52:20,791 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-14 11:52:21,383 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-14 11:52:23,285 [main] INFO  utils.HelperMethods - Clicked button Temperature Tab
+2025-06-14 11:54:24,908 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-14 11:54:34,294 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-14 11:54:34,891 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-14 11:54:36,702 [main] INFO  utils.HelperMethods - Clicked button Temperature Tab
+2025-06-14 12:28:33,551 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-14 12:28:45,565 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-14 12:28:46,208 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-14 12:28:49,330 [main] INFO  utils.HelperMethods - Clicked button Temperature Tab
+2025-06-14 13:05:05,786 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-14 13:05:18,489 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-14 13:05:19,113 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-14 13:05:20,984 [main] INFO  utils.HelperMethods - Clicked button Temperature Tab
+2025-06-14 13:05:22,134 [main] INFO  utils.HelperMethods - Clicked button From Unit Dropdown
+2025-06-14 13:32:37,292 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-14 13:32:49,250 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-14 13:32:49,886 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-14 13:32:51,738 [main] INFO  utils.HelperMethods - Clicked button Temperature Tab
+2025-06-14 13:35:26,697 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-14 13:35:35,960 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-14 13:35:36,600 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-14 13:35:38,385 [main] INFO  utils.HelperMethods - Clicked button Temperature Tab
+2025-06-14 13:35:39,501 [main] INFO  utils.HelperMethods - Clicked button 3
+2025-06-14 13:41:03,146 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-14 13:41:12,450 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-14 13:41:13,079 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-14 13:41:16,082 [main] INFO  utils.HelperMethods - Clicked button Temperature Tab
+2025-06-14 13:41:17,191 [main] INFO  utils.HelperMethods - Clicked button 3
+2025-06-14 14:05:17,002 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-14 14:05:29,448 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-14 14:05:30,081 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-14 14:05:31,967 [main] INFO  utils.HelperMethods - Clicked button Temperature Tab
+2025-06-14 14:05:33,098 [main] INFO  utils.HelperMethods - Clicked button 3
+2025-06-14 14:09:32,223 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-14 14:09:41,475 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-14 14:09:42,096 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-14 14:09:43,926 [main] INFO  utils.HelperMethods - Clicked button Temperature Tab
+2025-06-14 14:09:45,046 [main] INFO  utils.HelperMethods - Clicked button 3
+2025-06-14 14:18:09,781 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-14 14:18:19,215 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-14 14:18:19,822 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-14 14:18:21,671 [main] INFO  utils.HelperMethods - Clicked button Temperature Tab
+2025-06-14 14:18:22,777 [main] INFO  utils.HelperMethods - Clicked button 3
+2025-06-14 14:19:10,867 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-14 14:19:20,569 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-14 14:19:21,170 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-14 14:19:22,992 [main] INFO  utils.HelperMethods - Clicked button Temperature Tab
+2025-06-14 14:19:24,141 [main] INFO  utils.HelperMethods - Clicked button 3
+2025-06-14 14:29:45,876 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-14 14:29:56,815 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-14 14:29:57,453 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-14 14:29:59,373 [main] INFO  utils.HelperMethods - Clicked button Temperature Tab
+2025-06-14 14:30:00,562 [main] INFO  utils.HelperMethods - Clicked button 3
+2025-06-14 14:30:01,316 [main] INFO  utils.HelperMethods - Retrieved result: −16.1111111111
+2025-06-14 15:38:53,025 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-14 15:39:05,513 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-14 15:39:06,144 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-14 15:39:08,031 [main] INFO  utils.HelperMethods - Clicked button Temperature Tab
+2025-06-14 15:39:09,166 [main] INFO  utils.HelperMethods - Clicked button 3
+2025-06-14 15:39:09,884 [main] INFO  utils.HelperMethods - Retrieved result: −16.1111111111
+2025-06-14 15:53:55,016 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Denisa\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+2025-06-14 15:54:06,110 [main] INFO  pages.CalculatorPage - ConvertorPage initialized
+2025-06-14 15:54:06,766 [main] INFO  utils.HelperMethods - Clicked button Unit Converter
+2025-06-14 15:54:08,708 [main] INFO  utils.HelperMethods - Clicked button Temperature Tab
+2025-06-14 15:54:09,817 [main] INFO  utils.HelperMethods - Clicked button 3
+2025-06-14 15:54:10,598 [main] INFO  utils.HelperMethods - Retrieved result: −16.1111111111

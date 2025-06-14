@@ -22,15 +22,18 @@ public class BaseTest {
                 .setAppPackage("com.sec.android.app.popupcalculator")
                 .setAppActivity("com.sec.android.app.popupcalculator.Calculator");
 
+
         driver = new AndroidDriver(new URL("http://127.0.0.1:4723"), options);
+
+        System.out.println("Session ID: " + driver.getSessionId());
         System.out.println("Calculator App launched!");
     }
 
     @AfterClass
     public void tearDown() {
-        if (driver != null) {
-            driver.quit();
-        }
+//        if (driver != null) {
+//            driver.quit();
+//        }
     }
 }
 
